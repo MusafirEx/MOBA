@@ -1,0 +1,4562 @@
+fileFormatVersion: 2
+guid: af17bea9146640b29b357b7fb34809dd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 694
+        width: 86
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1e56f2eb3a5d241b09e10d2c329bc2
+      internalID: 1587140720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 683
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1ca0daf45b36746b87afefa33e5cee
+      internalID: 2084051003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_2
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 675
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffc305653b72134fb8164def62f7d2c
+      internalID: 1316180319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_3
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 675
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3756e8354ed6934182124be454e3cd9
+      internalID: -1027869584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_4
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 700
+        width: 75
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2712fcf4c29a8b04da5923442f1e3f11
+      internalID: 69753941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_5
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 720
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942027dd41b45cd43a4603140252a9ff
+      internalID: -452845034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_6
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 731
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d368d3ec84b92bd49806bc931b1b5b70
+      internalID: -309479115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_7
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 676
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e6fd60eef2e864080c19a7ca30d0bb
+      internalID: 504525689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_8
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 676
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94effcda438c7c4581dacdc72a1896e
+      internalID: -1966513630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 625
+        width: 97
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267e7ac9ee87f1e49bd0138efb852790
+      internalID: 547084710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 616
+        width: 99
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df676b6e0b514e48886eee9c41b0da2
+      internalID: 707933966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_11
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 617
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e1f183887a88548b8445ccf77b520d
+      internalID: 1577829498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_12
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 656
+        width: 83
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241cb8f5d071b074caa6c34782334f9d
+      internalID: 2010672435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_13
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 673
+        width: 87
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daf697f401ba5e48a242cb59b058a00
+      internalID: -220217060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_14
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 633
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598cbb273c37a2549b318dc434d76f11
+      internalID: 88918580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_15
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 658
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010279326d9032147953b85db8aeff18
+      internalID: 632491278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_16
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 667
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9c8eca46a61e2489cb49404738c996
+      internalID: -2072659933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_17
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 610
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6924da00830ba4d88f8a41b8659f83
+      internalID: 754118317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_18
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 623
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f6e74df7636c942b58e773bfcc5a97
+      internalID: 1199870438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_19
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 623
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8558bb78b7a71e04d81e1c94a7935b62
+      internalID: 767052376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 104
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c7f0b77ab660d4ea866465242a9cf8
+      internalID: -1114152021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_21
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 547
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc892946b64c5ae4f8423b3e179cccf7
+      internalID: -2096835195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_22
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 550
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee19c3dbd224dc44f8b3e2d8cfee4173
+      internalID: 366755532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_23
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 608
+        width: 102
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f76e55ed88a58429ad5bac3eb0cd79
+      internalID: 75756160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_24
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 607
+        width: 101
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e7e0ed176d54e40bd818689920845b
+      internalID: -465362582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_25
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 608
+        width: 83
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ddc6a83b2d395479b4ccd252ee39e2
+      internalID: -645539628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_26
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 602
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda10e121e047824e8799e35f569a6e0
+      internalID: -1283775637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_27
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 600
+        width: 100
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82aaee079f317244cb8eaa6bcfed5197
+      internalID: -1642493071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_28
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 610
+        width: 88
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d9c1947c64c654f974f9db6cbffeb0
+      internalID: 1655625111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_29
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 606
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a11fb78d920a2c4fae6c1d961ecc609
+      internalID: -298682427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_30
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 564
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d9d80f35a121747855a122ca06c06f
+      internalID: 209693851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_31
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 595
+        width: 88
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4890efb17e8e54b975a703404935d4
+      internalID: 1855152972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_32
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 602
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a30cae463b21e44818b324c59ea7ff
+      internalID: -1209280449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_33
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 609
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d814a4c03934e4f9946aeaa3fa2564
+      internalID: -1657176658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_34
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 593
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dc8dbdedbf23740a6f2f36f6076542
+      internalID: -1949834115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_35
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 577
+        width: 109
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd53904434dced2449d2507bbc94068e
+      internalID: 1110231845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_36
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 582
+        width: 110
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a02cd498673e984a9cde407e9480f07
+      internalID: 772160000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_37
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 589
+        width: 86
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744cfbff50840424a9e15cd188764654
+      internalID: -1585035548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 544
+        width: 108
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2224fdc50d3e1af4e8e5b702e2656a55
+      internalID: -479587630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_39
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 544
+        width: 110
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e12979866404134d82d7afb4c5b755c
+      internalID: 127063647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_40
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 547
+        width: 102
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2511b21e291c3b84fb377072a9c75f8c
+      internalID: 1001159585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_41
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 541
+        width: 102
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159d8e0d76e308147b394a31c45e5825
+      internalID: 998479501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_42
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 544
+        width: 104
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1b5d1fcb0c22b47bef67ea45b0c462
+      internalID: 1869565464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_43
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 569
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc4e2924f6dbe8469d4573ebd01b3c5
+      internalID: 708677478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_44
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 546
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6832013ea631cc4c951b92214f536c7
+      internalID: -110704767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_45
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 550
+        width: 101
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7e074415655e041afdcaf1dea6a86e
+      internalID: 1779887828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_46
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 537
+        width: 103
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c0a723c2ef4cd4699495d3705002e5
+      internalID: -1845927970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_47
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 543
+        width: 99
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0a4ebe4c1b2374691f596e588e81c9
+      internalID: -198564454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_48
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 544
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d228bfe5888797e498f07f0a12cb25c6
+      internalID: 303416661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_49
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 544
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7064e0ba2ddf2a94c921d7e4ef423a4e
+      internalID: -2077095381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_50
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 544
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cfd0c6e26f2b143abe43945583877b
+      internalID: 2118362243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_51
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 537
+        width: 104
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a23c7455ba6cd74db4df3d4f253d1fc
+      internalID: 858493294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_52
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 519
+        width: 110
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfbdc0f82a93834b84b2507e00b29d3
+      internalID: -1301454734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_53
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 515
+        width: 98
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed435007bc3a40c4ca2756e2a15f7c34
+      internalID: -1774604325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_54
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 515
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782ed512d860c5f44b3cd585fba509ae
+      internalID: 388396509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 487
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8c3402bdea03846a4adf5e42b53ba7
+      internalID: 50153775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_56
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 478
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204557881a1c82b478a43e36cd9a5788
+      internalID: -9882940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_57
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 481
+        width: 104
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546780a159fb99248aa47a9d61aa108c
+      internalID: 1424757546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 481
+        width: 112
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfc9ced144be7841b32a96bfe13ce00
+      internalID: -405742749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_59
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 481
+        width: 110
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ced6cf39939b44e8798918d4b3da4a
+      internalID: 2142518987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_60
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 483
+        width: 108
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3178e42d5c44142a23aa5a28988bc0
+      internalID: -1613242015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_61
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 478
+        width: 111
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf3aaa461307a04c89708975ab3b14b
+      internalID: -812044771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_62
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 479
+        width: 98
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6e4877d9842d941bd9a9752077fcfc
+      internalID: 580227630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_63
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 479
+        width: 86
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47560e381425e7247bf1b5abe50efcb4
+      internalID: -366063872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_64
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 491
+        width: 99
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1583111c9d41364448f3ca5258bb7989
+      internalID: -1513303371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_65
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 490
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cce7c27612f99d4394087207add92ad
+      internalID: -203956572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_66
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 473
+        width: 99
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a102aedfd855a2f468c829d6187ca50b
+      internalID: -868512176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_67
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 478
+        width: 97
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12a6fe3866aa4348ac23d4b0614c178
+      internalID: 62038219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_68
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 486
+        width: 109
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d6215b2423ee148a3f0bb610b3c26a
+      internalID: -906145556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_69
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 486
+        width: 103
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a67a0d43e61aa47a1ccc66b5329cb1
+      internalID: 1941866325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_70
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 471
+        width: 98
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67a766670bc93146b5c807f4ad8a016
+      internalID: 1798510686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_71
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 459
+        width: 109
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e9250f1127bd94590424231b29e180
+      internalID: 877914736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_72
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 457
+        width: 112
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618fe8bffbb50e84eaad5bbcc8958295
+      internalID: -96777941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 418
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa2b39791e4bd844ab8c69bd2144066
+      internalID: 892586040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_74
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 409
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b049e657b9f33e14984b7a29270178e3
+      internalID: 1435319131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_75
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 417
+        width: 112
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acfa4f7cbb0e5548b85b9f874624608
+      internalID: -2098543204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_76
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 417
+        width: 112
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee17ba2510b14448a3b03567f28aaed
+      internalID: -2058025956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_77
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 417
+        width: 112
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827a33ab573e4384f8781803c8dcb796
+      internalID: 460063954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_78
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 419
+        width: 112
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a64d10114b7e44690eff1793265c84
+      internalID: -1654251362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_79
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 414
+        width: 112
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260ef4d86c1549c4a8bd8724eb7e81e7
+      internalID: 956332144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_80
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 416
+        width: 109
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a061e24a6d2644b8e8a04a38cdbf2c
+      internalID: -1523949136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_81
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 423
+        width: 93
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a558e126800bda544b29bfed6e4022e6
+      internalID: -1545854264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_82
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 422
+        width: 93
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c92936d3a32fa54e9243ac09c6ca592
+      internalID: -1689433173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_83
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 415
+        width: 110
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f75236c666965b48b2ee54fed3aefa6
+      internalID: 1805611236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_84
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 415
+        width: 100
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7158d51f04c82794497c8ec01ee5dccf
+      internalID: 885588702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_85
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 423
+        width: 100
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cfde4e452e7f84ea66df2879b5421e
+      internalID: -1349023809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_86
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 404
+        width: 92
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4810ce0eed0908d46be58d3cc53f9a43
+      internalID: -214708072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_87
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 412
+        width: 113
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ca811b8a3ef8845aff840072173203
+      internalID: -1407795986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_88
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 398
+        width: 106
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e210f162aa363004aa0ce7a063e7c289
+      internalID: -483195624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_89
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 395
+        width: 106
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f6e4fc5ff848f4384868affe553679
+      internalID: 2069091014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 347
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0fb99956dde6d4299d1a8b7026d33d
+      internalID: 1375405238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_91
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 339
+        width: 103
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422b4e2758026ce4592dd0864fc68db4
+      internalID: 1465616540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_92
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 347
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea84fb7234a570243b9bec74657c6013
+      internalID: 205772140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_93
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 353
+        width: 112
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a52fd896dd5e7044ba78abc0371ded7
+      internalID: 1591384934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_94
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 353
+        width: 112
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a2b05ad37c03e408fe65fd95bdafbf
+      internalID: -1509148435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_95
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 351
+        width: 99
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8284eae5cdea2e4999f4497153ddf3e
+      internalID: -1982912656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_96
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 347
+        width: 99
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fa5d8f62eb1864783200219dd303b0
+      internalID: 1220594705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_97
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 345
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55141c6f747582348a740fee15c47cd4
+      internalID: 558975983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_98
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 344
+        width: 99
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed59609a7456164d9b4a6eba804853b
+      internalID: 111137946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_99
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 352
+        width: 94
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1b54ac1aecc4f409e7b4c454aa927c
+      internalID: -1953929783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_100
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 350
+        width: 96
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5d5c97572b5d14ea8acbebe4f53a18
+      internalID: 330183303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_101
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 343
+        width: 96
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856ae89147d5f7445a3b4911125b7a69
+      internalID: -343992508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_102
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 343
+        width: 96
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e7058ce0456b34b98c5d40cc28ba1c
+      internalID: -68181556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_103
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 352
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11830a5a8dadab944af1336ebc9ddf46
+      internalID: 229884394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_104
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 339
+        width: 103
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b76949cf2a0e5499602e92495cabb1
+      internalID: -263839914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_105
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 341
+        width: 92
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e5b22e6c0397f438874680ff6f4f8f
+      internalID: 2021752196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_106
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 336
+        width: 108
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8631c23209085cc4b9f79d878fa39a8c
+      internalID: -1536686977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_107
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 334
+        width: 108
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bc2730a0c94f043aa854800b8702d8
+      internalID: -543932197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 104
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e3c46a9d43537429f587a16d567d43
+      internalID: 675927137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_109
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 272
+        width: 110
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358683856623dcd4fb028816ad3a8265
+      internalID: 1069841120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_110
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 278
+        width: 104
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264e9cea5fe700f46a21bc732ed433a4
+      internalID: 1368742083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_111
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 283
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539c6413d98b571479e0f9766b34264d
+      internalID: 432019993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_112
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 283
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b380d5eb07c4c4fb6056378fdbf745
+      internalID: -1464330895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_113
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 284
+        width: 108
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7490c78d3333ff64ba9d8494bdcb1b34
+      internalID: -942826724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_114
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 280
+        width: 108
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dd7eda31df10e4db88a948510005b7
+      internalID: 521753738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_115
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 280
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd19e07cc46d2f34db92fcececb0c6be
+      internalID: -713222409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_116
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 275
+        width: 104
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb1a7fde748708458b3d3cfcbd6c514
+      internalID: -1125303272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_117
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 283
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d0cff8a23ad884d9fc733a117d80e6
+      internalID: -377701421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_118
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 281
+        width: 103
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3bf8ccd73880a42b8f33dc75b23d69
+      internalID: -1578125018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_119
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 274
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3272c93d978a0474f80f57180b817ebf
+      internalID: -1669705819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_120
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 274
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998508fe30b38de4e85fff066a067d99
+      internalID: 211024806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_121
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 280
+        width: 96
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305f4bb385d838b41a9a7f07f52d32d6
+      internalID: 662902261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_122
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 273
+        width: 107
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c354c413a8d53f64ca9ee162af80e9fc
+      internalID: 601629184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_123
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 276
+        width: 102
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a814bcb32e6924c92682453ef219b1
+      internalID: -875040305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_124
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 273
+        width: 108
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243059dc580a42742b864474a3738298
+      internalID: -413601961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_125
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 273
+        width: 108
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526450faa6e9ba7498207a5336b0931a
+      internalID: 1370216621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 105
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ec885a590a36f428f3fae6d513a933
+      internalID: -688664952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_127
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 204
+        width: 109
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f572d55e48a04c41b754970282f713b
+      internalID: -824280508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_128
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 207
+        width: 104
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5f96ecb56e50540a98d0ac27153357
+      internalID: 1599552892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_129
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 217
+        width: 110
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6e14a48f8a26f4991028163ed9c585
+      internalID: -905532601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_130
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 218
+        width: 102
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d399fa91e33d4347827005f4addb7aa
+      internalID: 1233239531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_131
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 215
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb2e447adf80704b9b6c5efa816d912
+      internalID: -1395063363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_132
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 214
+        width: 102
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89e53ec383649b4fb368129e17a6db6
+      internalID: 1000025108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_133
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 211
+        width: 103
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345c03d24aa514f43b3cfa40eb7fa1f4
+      internalID: 145325050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_134
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 204
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5449d618a29fb644af5ff9bf7e40f7c
+      internalID: 1982765615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_135
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 213
+        width: 104
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a151657a343cd143a71dc2f87f32c81
+      internalID: 301995199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_136
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 211
+        width: 104
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f437c9ccfe70f4d87eff7cbddd1c9f
+      internalID: 380885955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_137
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 210
+        width: 114
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91fdcbc8fac0e5498aa78e439f584d8
+      internalID: -1968249680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_138
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 210
+        width: 115
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452181241fdcba84aa22e99ec378a3f8
+      internalID: 789046243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_139
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 211
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea038b6a3d2ac346b5712437117a014
+      internalID: -204064747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_140
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 210
+        width: 111
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9347269abf402c6499ff73ff280e4add
+      internalID: 1799774225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_141
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 210
+        width: 107
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7e53dc5d217d84c92865f4f85a5277
+      internalID: 493975631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_142
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 210
+        width: 108
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dde6f333e67d5642b1cc91bb5bdc76d
+      internalID: 734805626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_143
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 210
+        width: 109
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24aa61bb83ce85f418e403961cddfcf0
+      internalID: -621116802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_144
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 142
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cd53fdad3542a4584e6af01c3acd94
+      internalID: -802002133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_145
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 139
+        width: 114
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e8d98744bf47e409290d165cc38341
+      internalID: 1077074283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_146
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 139
+        width: 109
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dc7e00a3889074db2121894ab2f704
+      internalID: -993851413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_147
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 145
+        width: 102
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5433182261f5714d9c7bfca1cdb5a54
+      internalID: -368824741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_148
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 146
+        width: 103
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05b764c7f75f6042b29b0f001734e11
+      internalID: -433866711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_149
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 137
+        width: 100
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6493e4adfdfd1a8428b8373e488518b8
+      internalID: -1478569833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_150
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 145
+        width: 104
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699e66514161559478b3882edb073f03
+      internalID: -1131936516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_151
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 141
+        width: 104
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8e7a2b08bcfda4e80d0189b9748318
+      internalID: 1835405078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_152
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 135
+        width: 103
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c6167834e0814478e0d5a5bc28ca14
+      internalID: 1606179023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_153
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 143
+        width: 104
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552258a5d6cd2b2439f96e59320bd0b6
+      internalID: 353125168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_154
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 141
+        width: 104
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6ff36ea9be72543a72058354b25266
+      internalID: 1573235179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_155
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 140
+        width: 103
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677080c45b02e9a45af6718d65fab7f6
+      internalID: -882253900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_156
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 141
+        width: 104
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845205226e0efa948980711bab7387fc
+      internalID: -293126868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_157
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 140
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddd97261308eb741a315fbf6f74f0ec
+      internalID: -228266353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_158
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 141
+        width: 104
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3197bdd0a172245bca0f5be72da7ee
+      internalID: 1448838878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_159
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 140
+        width: 103
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8b4c489f027bf459a0312e269c7bf6
+      internalID: 781915195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_160
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 141
+        width: 104
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e62206f913fee4caf75851695cb20d
+      internalID: 5828246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_161
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 141
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223ef5d2fc276a442873c63feec5629a
+      internalID: -1782026951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_162
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 140
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358c7e31e4fc65541b18d7b1a2a152e7
+      internalID: -1934333010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_163
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 116
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1972e89969669b4490c7d030658f8d9
+      internalID: 159760276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_164
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 72
+        width: 111
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315f3084794b755418ad452681b88d1e
+      internalID: -367358731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_165
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 72
+        width: 111
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c311c857323e34c8a32ae639d357d2
+      internalID: 1403319147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_166
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 72
+        width: 104
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c717cbaf77fd3946b188f6baa2d3225
+      internalID: 673527531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_167
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 72
+        width: 101
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a60b4560bd2c7c4a8c11ee2f677daff
+      internalID: 31074183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_168
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 71
+        width: 116
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279c414db6babc641a209ff44d17d3a9
+      internalID: -1618056632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_169
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 71
+        width: 104
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cee16b030d5384b9cc7fef4a103a34
+      internalID: -1319211610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_170
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 68
+        width: 105
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b65f868c4f42de40bfdb6da3937fc86
+      internalID: -1648041311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_171
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 68
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9038dc8eeadf1f54aa7727dff76187be
+      internalID: -1579524146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_172
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 73
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74b7a292f1281549961ec7543759021
+      internalID: 1938598449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_173
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 71
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b58cb576b0d6c649a266b276dab45fd
+      internalID: 1371225527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_174
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 71
+        width: 104
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a008b2db2d7ea4d8720ba06d56e101
+      internalID: 2004594642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_175
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 71
+        width: 104
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a178debb13d9c64c85d3e106c5d7c02
+      internalID: 289144780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_176
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 71
+        width: 104
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53b0e6ff531c1e4cbd043a292c6ca7d
+      internalID: 831070693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_177
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 71
+        width: 103
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682c09923ae3b174e98224f7d4260b39
+      internalID: 2024395878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_178
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 71
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f361df31f432ff4d851f2f8aab151cb
+      internalID: 358083420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_179
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 71
+        width: 104
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e5b2f6e440094469c65e0f83c53023
+      internalID: 1702011389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_180
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 71
+        width: 104
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937d1f562f728b54aad578af9783ec2c
+      internalID: 1382561652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_181
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 71
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02b71450b1249a44a55fd32db18bc52
+      internalID: -1556558768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc59a06ffcb9e8f4493f2da68dee42ee
+      internalID: 1101971184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_183
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1
+        width: 103
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8811726baa53e4d8a29701e85db83a
+      internalID: -1258119832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_184
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 116
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5d2e14b142b464bb62018825610c55
+      internalID: 345961242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_185
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 114
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97a3c1b1667389478681a8ac7038b53
+      internalID: 585740693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_186
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 113
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ad05e079a37a444ac348cfca99caa0
+      internalID: -1032195865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_187
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1
+        width: 111
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664b8bcde5b70af4c80726fa898ae65c
+      internalID: -437223532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_188
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1
+        width: 110
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e986cfb29bbcc7d428d954673c26b3d3
+      internalID: -719391810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_189
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 0
+        width: 111
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353acea9f8655ec4b94422d39993c591
+      internalID: -1467004034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 0
+        width: 111
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e8fa297e6c17f428ce3e569d00b72a
+      internalID: -1940799685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_191
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 0
+        width: 106
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86a01c3beed41e428c8faa91ec73a0d
+      internalID: 102327434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_192
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 0
+        width: 103
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c1a8599efe64c4882e98c17c78af85
+      internalID: -1125766683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_193
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1
+        width: 104
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ce4229391ceb94c972b3a34ae9296e
+      internalID: 1513700601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_194
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 0
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0826e95e1dec6684cbb864546a04970f
+      internalID: -6501493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_195
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19ec83eaac2f474d925133abece4a73
+      internalID: -405467108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_196
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1
+        width: 103
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af354e11e320534f9204c153fb08249
+      internalID: 755955918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_197
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1
+        width: 104
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cf1367ffbc62b468ffda29783ae7f0
+      internalID: 228226179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_198
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b14a9715c46794f81eb4156e915e44
+      internalID: 1706918403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_199
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2f18ab220ffcf41948b934ac8ca6ac
+      internalID: -261497956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle_WeaponIcon_00_200
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 1
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde3d9878e5fa1543a0ba0c55cb03dc0
+      internalID: 1010915789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Battle_WeaponIcon_00_0: 1587140720
+      Battle_WeaponIcon_00_1: 2084051003
+      Battle_WeaponIcon_00_10: 707933966
+      Battle_WeaponIcon_00_100: 330183303
+      Battle_WeaponIcon_00_101: -343992508
+      Battle_WeaponIcon_00_102: -68181556
+      Battle_WeaponIcon_00_103: 229884394
+      Battle_WeaponIcon_00_104: -263839914
+      Battle_WeaponIcon_00_105: 2021752196
+      Battle_WeaponIcon_00_106: -1536686977
+      Battle_WeaponIcon_00_107: -543932197
+      Battle_WeaponIcon_00_108: 675927137
+      Battle_WeaponIcon_00_109: 1069841120
+      Battle_WeaponIcon_00_11: 1577829498
+      Battle_WeaponIcon_00_110: 1368742083
+      Battle_WeaponIcon_00_111: 432019993
+      Battle_WeaponIcon_00_112: -1464330895
+      Battle_WeaponIcon_00_113: -942826724
+      Battle_WeaponIcon_00_114: 521753738
+      Battle_WeaponIcon_00_115: -713222409
+      Battle_WeaponIcon_00_116: -1125303272
+      Battle_WeaponIcon_00_117: -377701421
+      Battle_WeaponIcon_00_118: -1578125018
+      Battle_WeaponIcon_00_119: -1669705819
+      Battle_WeaponIcon_00_12: 2010672435
+      Battle_WeaponIcon_00_120: 211024806
+      Battle_WeaponIcon_00_121: 662902261
+      Battle_WeaponIcon_00_122: 601629184
+      Battle_WeaponIcon_00_123: -875040305
+      Battle_WeaponIcon_00_124: -413601961
+      Battle_WeaponIcon_00_125: 1370216621
+      Battle_WeaponIcon_00_126: -688664952
+      Battle_WeaponIcon_00_127: -824280508
+      Battle_WeaponIcon_00_128: 1599552892
+      Battle_WeaponIcon_00_129: -905532601
+      Battle_WeaponIcon_00_13: -220217060
+      Battle_WeaponIcon_00_130: 1233239531
+      Battle_WeaponIcon_00_131: -1395063363
+      Battle_WeaponIcon_00_132: 1000025108
+      Battle_WeaponIcon_00_133: 145325050
+      Battle_WeaponIcon_00_134: 1982765615
+      Battle_WeaponIcon_00_135: 301995199
+      Battle_WeaponIcon_00_136: 380885955
+      Battle_WeaponIcon_00_137: -1968249680
+      Battle_WeaponIcon_00_138: 789046243
+      Battle_WeaponIcon_00_139: -204064747
+      Battle_WeaponIcon_00_14: 88918580
+      Battle_WeaponIcon_00_140: 1799774225
+      Battle_WeaponIcon_00_141: 493975631
+      Battle_WeaponIcon_00_142: 734805626
+      Battle_WeaponIcon_00_143: -621116802
+      Battle_WeaponIcon_00_144: -802002133
+      Battle_WeaponIcon_00_145: 1077074283
+      Battle_WeaponIcon_00_146: -993851413
+      Battle_WeaponIcon_00_147: -368824741
+      Battle_WeaponIcon_00_148: -433866711
+      Battle_WeaponIcon_00_149: -1478569833
+      Battle_WeaponIcon_00_15: 632491278
+      Battle_WeaponIcon_00_150: -1131936516
+      Battle_WeaponIcon_00_151: 1835405078
+      Battle_WeaponIcon_00_152: 1606179023
+      Battle_WeaponIcon_00_153: 353125168
+      Battle_WeaponIcon_00_154: 1573235179
+      Battle_WeaponIcon_00_155: -882253900
+      Battle_WeaponIcon_00_156: -293126868
+      Battle_WeaponIcon_00_157: -228266353
+      Battle_WeaponIcon_00_158: 1448838878
+      Battle_WeaponIcon_00_159: 781915195
+      Battle_WeaponIcon_00_16: -2072659933
+      Battle_WeaponIcon_00_160: 5828246
+      Battle_WeaponIcon_00_161: -1782026951
+      Battle_WeaponIcon_00_162: -1934333010
+      Battle_WeaponIcon_00_163: 159760276
+      Battle_WeaponIcon_00_164: -367358731
+      Battle_WeaponIcon_00_165: 1403319147
+      Battle_WeaponIcon_00_166: 673527531
+      Battle_WeaponIcon_00_167: 31074183
+      Battle_WeaponIcon_00_168: -1618056632
+      Battle_WeaponIcon_00_169: -1319211610
+      Battle_WeaponIcon_00_17: 754118317
+      Battle_WeaponIcon_00_170: -1648041311
+      Battle_WeaponIcon_00_171: -1579524146
+      Battle_WeaponIcon_00_172: 1938598449
+      Battle_WeaponIcon_00_173: 1371225527
+      Battle_WeaponIcon_00_174: 2004594642
+      Battle_WeaponIcon_00_175: 289144780
+      Battle_WeaponIcon_00_176: 831070693
+      Battle_WeaponIcon_00_177: 2024395878
+      Battle_WeaponIcon_00_178: 358083420
+      Battle_WeaponIcon_00_179: 1702011389
+      Battle_WeaponIcon_00_18: 1199870438
+      Battle_WeaponIcon_00_180: 1382561652
+      Battle_WeaponIcon_00_181: -1556558768
+      Battle_WeaponIcon_00_182: 1101971184
+      Battle_WeaponIcon_00_183: -1258119832
+      Battle_WeaponIcon_00_184: 345961242
+      Battle_WeaponIcon_00_185: 585740693
+      Battle_WeaponIcon_00_186: -1032195865
+      Battle_WeaponIcon_00_187: -437223532
+      Battle_WeaponIcon_00_188: -719391810
+      Battle_WeaponIcon_00_189: -1467004034
+      Battle_WeaponIcon_00_19: 767052376
+      Battle_WeaponIcon_00_191: 102327434
+      Battle_WeaponIcon_00_192: -1125766683
+      Battle_WeaponIcon_00_193: 1513700601
+      Battle_WeaponIcon_00_194: -6501493
+      Battle_WeaponIcon_00_195: -405467108
+      Battle_WeaponIcon_00_196: 755955918
+      Battle_WeaponIcon_00_197: 228226179
+      Battle_WeaponIcon_00_198: 1706918403
+      Battle_WeaponIcon_00_199: -261497956
+      Battle_WeaponIcon_00_2: 1316180319
+      Battle_WeaponIcon_00_20: -1114152021
+      Battle_WeaponIcon_00_200: 1010915789
+      Battle_WeaponIcon_00_21: -2096835195
+      Battle_WeaponIcon_00_22: 366755532
+      Battle_WeaponIcon_00_23: 75756160
+      Battle_WeaponIcon_00_24: -465362582
+      Battle_WeaponIcon_00_25: -645539628
+      Battle_WeaponIcon_00_26: -1283775637
+      Battle_WeaponIcon_00_27: -1642493071
+      Battle_WeaponIcon_00_28: 1655625111
+      Battle_WeaponIcon_00_29: -298682427
+      Battle_WeaponIcon_00_3: -1027869584
+      Battle_WeaponIcon_00_30: 209693851
+      Battle_WeaponIcon_00_31: 1855152972
+      Battle_WeaponIcon_00_32: -1209280449
+      Battle_WeaponIcon_00_33: -1657176658
+      Battle_WeaponIcon_00_34: -1949834115
+      Battle_WeaponIcon_00_35: 1110231845
+      Battle_WeaponIcon_00_36: 772160000
+      Battle_WeaponIcon_00_37: -1585035548
+      Battle_WeaponIcon_00_38: -479587630
+      Battle_WeaponIcon_00_39: 127063647
+      Battle_WeaponIcon_00_4: 69753941
+      Battle_WeaponIcon_00_40: 1001159585
+      Battle_WeaponIcon_00_41: 998479501
+      Battle_WeaponIcon_00_42: 1869565464
+      Battle_WeaponIcon_00_43: 708677478
+      Battle_WeaponIcon_00_44: -110704767
+      Battle_WeaponIcon_00_45: 1779887828
+      Battle_WeaponIcon_00_46: -1845927970
+      Battle_WeaponIcon_00_47: -198564454
+      Battle_WeaponIcon_00_48: 303416661
+      Battle_WeaponIcon_00_49: -2077095381
+      Battle_WeaponIcon_00_5: -452845034
+      Battle_WeaponIcon_00_50: 2118362243
+      Battle_WeaponIcon_00_51: 858493294
+      Battle_WeaponIcon_00_52: -1301454734
+      Battle_WeaponIcon_00_53: -1774604325
+      Battle_WeaponIcon_00_54: 388396509
+      Battle_WeaponIcon_00_55: 50153775
+      Battle_WeaponIcon_00_56: -9882940
+      Battle_WeaponIcon_00_57: 1424757546
+      Battle_WeaponIcon_00_58: -405742749
+      Battle_WeaponIcon_00_59: 2142518987
+      Battle_WeaponIcon_00_6: -309479115
+      Battle_WeaponIcon_00_60: -1613242015
+      Battle_WeaponIcon_00_61: -812044771
+      Battle_WeaponIcon_00_62: 580227630
+      Battle_WeaponIcon_00_63: -366063872
+      Battle_WeaponIcon_00_64: -1513303371
+      Battle_WeaponIcon_00_65: -203956572
+      Battle_WeaponIcon_00_66: -868512176
+      Battle_WeaponIcon_00_67: 62038219
+      Battle_WeaponIcon_00_68: -906145556
+      Battle_WeaponIcon_00_69: 1941866325
+      Battle_WeaponIcon_00_7: 504525689
+      Battle_WeaponIcon_00_70: 1798510686
+      Battle_WeaponIcon_00_71: 877914736
+      Battle_WeaponIcon_00_72: -96777941
+      Battle_WeaponIcon_00_73: 892586040
+      Battle_WeaponIcon_00_74: 1435319131
+      Battle_WeaponIcon_00_75: -2098543204
+      Battle_WeaponIcon_00_76: -2058025956
+      Battle_WeaponIcon_00_77: 460063954
+      Battle_WeaponIcon_00_78: -1654251362
+      Battle_WeaponIcon_00_79: 956332144
+      Battle_WeaponIcon_00_8: -1966513630
+      Battle_WeaponIcon_00_80: -1523949136
+      Battle_WeaponIcon_00_81: -1545854264
+      Battle_WeaponIcon_00_82: -1689433173
+      Battle_WeaponIcon_00_83: 1805611236
+      Battle_WeaponIcon_00_84: 885588702
+      Battle_WeaponIcon_00_85: -1349023809
+      Battle_WeaponIcon_00_86: -214708072
+      Battle_WeaponIcon_00_87: -1407795986
+      Battle_WeaponIcon_00_88: -483195624
+      Battle_WeaponIcon_00_89: 2069091014
+      Battle_WeaponIcon_00_9: 547084710
+      Battle_WeaponIcon_00_90: 1375405238
+      Battle_WeaponIcon_00_91: 1465616540
+      Battle_WeaponIcon_00_92: 205772140
+      Battle_WeaponIcon_00_93: 1591384934
+      Battle_WeaponIcon_00_94: -1509148435
+      Battle_WeaponIcon_00_95: -1982912656
+      Battle_WeaponIcon_00_96: 1220594705
+      Battle_WeaponIcon_00_97: 558975983
+      Battle_WeaponIcon_00_98: 111137946
+      Battle_WeaponIcon_00_99: -1953929783
+      Cannon: -1940799685
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

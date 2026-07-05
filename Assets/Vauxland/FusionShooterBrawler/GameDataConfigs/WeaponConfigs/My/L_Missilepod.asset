@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0d324fd35107c94e86dd054f14be5b3, type: 3}
+  m_Name: L_Missilepod
+  m_EditorClassIdentifier: 
+  weaponName: L_Missilepod
+  weaponIcon: {fileID: 504525689, guid: af17bea9146640b29b357b7fb34809dd, type: 3}
+  weaponModel: {fileID: 7830856503142673331, guid: 576d43e7c39e42449b71fd97de6d6ede, type: 3}
+  projectile: {fileID: 2876714186696537581, guid: 8360870f534d9184f8b0826ef803a8e8, type: 3}
+  delayBetweenShots: 1.2
+  delayBeforeShooting: 0.6
+  launchOffset: 0
+  destructibleDamage: 10
+  animID: 2
+  requiredMount: 1
+  sizeClass: 1
+  compatibleCharacters: []
+  aimMode: 4
+  yawSpeed: 90
+  pitchSpeed: 60
+  minimumYaw: -90
+  maximumYaw: 90
+  minimumPitch: -20
+  maximumPitch: 45
+  noLockBehaviour: 1
+  homingTurnSpeed: 50
+  homingTargetOffsetY: 1
+  isShotgun: 0
+  shotgunPelletCount: 5
+  shotSpreadAngleHorizontal: 10
+  shotSpreadAngleVertical: 5
+  weaponStats:
+    stats:
+    - statType: 3
+      value: 5
+    - statType: 2
+      value: 40
+    - statType: 4
+      value: 20
+    - statType: 5
+      value: -1
+  reloadOneAmmoAtATime: 1
+  reloadDuration: 1
+  reloadClipSize: 5
+  ammoAmountShotUse: 1
+  shootFx: {fileID: 0}
+  reloadFx: {fileID: 0}
+  emptyFx: {fileID: 0}

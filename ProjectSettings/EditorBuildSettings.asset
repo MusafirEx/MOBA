@@ -4,7 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects:
-    com.unity.input.settings: {fileID: 11400000, guid: ccca2ad1bf012244489ca6d2c3512bd0, type: 2}
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 66324b74dd9f2254aaebd8897e70e1a8, type: 3}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Vauxland/FusionShooterBrawler/Scenes/GameLobbyScene.unity
+    guid: ded53e51d8dd1514f90a7f42c09be9cf
+  - enabled: 1
+    path: Assets/Vauxland/FusionShooterBrawler/Scenes/BrawlScene.unity
+    guid: aa5ca042d36b12745a1b3e8f0ed21af0
+  - enabled: 1
+    path: Assets/Vauxland/FusionShooterBrawler/Scenes/ArenaScene.unity
+    guid: 644bdd144ab61e64fa9575c9d12e6b75
+  m_configObjects: {}

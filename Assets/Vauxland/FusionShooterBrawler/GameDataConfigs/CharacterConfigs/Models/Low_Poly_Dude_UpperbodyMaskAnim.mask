@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Low_Poly_Dude_UpperbodyMaskAnim
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/Root
+    m_Weight: 0
+  - m_Path: Armature/Root/FootIKTargetL
+    m_Weight: 0
+  - m_Path: Armature/Root/FootIKTargetL/FootL
+    m_Weight: 0
+  - m_Path: Armature/Root/FootIKTargetL/FootL/FootTipL
+    m_Weight: 0
+  - m_Path: Armature/Root/FootIKTargetR
+    m_Weight: 0
+  - m_Path: Armature/Root/FootIKTargetR/FootR
+    m_Weight: 0
+  - m_Path: Armature/Root/FootIKTargetR/FootR/FootTipR
+    m_Weight: 0
+  - m_Path: Armature/Root/Hips
+    m_Weight: 0
+  - m_Path: Armature/Root/Hips/Leg1L
+    m_Weight: 0
+  - m_Path: Armature/Root/Hips/Leg1L/Leg2L
+    m_Weight: 0
+  - m_Path: Armature/Root/Hips/Leg1R
+    m_Weight: 0
+  - m_Path: Armature/Root/Hips/Leg1R/Leg2R
+    m_Weight: 0
+  - m_Path: Armature/Root/Hips/Spine1
+    m_Weight: 1
+  - m_Path: Armature/Root/Hips/Spine1/Spine2
+    m_Weight: 1
+  - m_Path: Armature/Root/Hips/Spine1/Spine2/Neck
+    m_Weight: 1
+  - m_Path: Armature/Root/Hips/Spine1/Spine2/Neck/Head
+    m_Weight: 1
+  - m_Path: Armature/Root/Hips/Spine1/Spine2/ShoulderL
+    m_Weight: 1
+  - m_Path: Armature/Root/Hips/Spine1/Spine2/ShoulderL/Arm1L
+    m_Weight: 1
+  - m_Path: Armature/Root/Hips/Spine1/Spine2/ShoulderL/Arm1L/Arm2L
+    m_Weight: 1
+  - m_Path: Armature/Root/Hips/Spine1/Spine2/ShoulderL/Arm1L/Arm2L/HandL
+    m_Weight: 1
+  - m_Path: Armature/Root/Hips/Spine1/Spine2/ShoulderL/Arm1L/Arm2L/HandL/FingersL
+    m_Weight: 1
+  - m_Path: Armature/Root/Hips/Spine1/Spine2/ShoulderL/Arm1L/Arm2L/HandL/ThumbL
+    m_Weight: 1
+  - m_Path: Armature/Root/Hips/Spine1/Spine2/ShoulderR
+    m_Weight: 1
+  - m_Path: Armature/Root/Hips/Spine1/Spine2/ShoulderR/Arm1R
+    m_Weight: 1
+  - m_Path: Armature/Root/Hips/Spine1/Spine2/ShoulderR/Arm1R/Arm2R
+    m_Weight: 1
+  - m_Path: Armature/Root/Hips/Spine1/Spine2/ShoulderR/Arm1R/Arm2R/HandR
+    m_Weight: 1
+  - m_Path: Armature/Root/Hips/Spine1/Spine2/ShoulderR/Arm1R/Arm2R/HandR/FingersR
+    m_Weight: 1
+  - m_Path: Armature/Root/Hips/Spine1/Spine2/ShoulderR/Arm1R/Arm2R/HandR/ThumbR
+    m_Weight: 1
+  - m_Path: Dude
+    m_Weight: 1
+  - m_Path: machinegun
+    m_Weight: 1

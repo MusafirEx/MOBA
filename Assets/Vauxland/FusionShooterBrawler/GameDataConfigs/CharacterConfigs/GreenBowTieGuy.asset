@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcf234a76dc70544bb46e027e11d4a7c, type: 3}
+  m_Name: GreenBowTieGuy
+  m_EditorClassIdentifier: 
+  characterName: Green Tie Guy
+  characterID: 1
+  characterStats:
+    stats:
+    - statType: 0
+      value: 10
+    - statType: 4
+      value: 3
+    - statType: 5
+      value: 3
+    - statType: 1
+      value: 20
+  characterModel: {fileID: -4638829355757892979, guid: 447a3ff5d26dd51458469019b24f2289, type: 3}

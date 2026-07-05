@@ -1,0 +1,3616 @@
+fileFormatVersion: 2
+guid: 0dd901aa51534c659f29ba1e0428b4da
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1901
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd145cebae959db40bb20e4ad8eef89a
+      internalID: 1881851100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1901
+        width: 146
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db1931ab765cc447b44f7a20a7f930b
+      internalID: -1878154725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1871
+        width: 146
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24270039add8404ab711007d4621eec
+      internalID: -1746514952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1862
+        width: 145
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec62f5c510024740967ef145e4c67c0
+      internalID: 1249524459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_4
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1819
+        width: 143
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c00b9326d234f94baf2f70cd98d4c27
+      internalID: 1616591914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_5
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1815
+        width: 144
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a66d46f977948646b3c13a07a163fea
+      internalID: 1994817108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_6
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1907
+        width: 145
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14afe13ab0334204aac77cdd71728613
+      internalID: -1170480829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_7
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1841
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acad19baf72184408b4599ebcb62799
+      internalID: -1681046132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_8
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1823
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730f294ab906fdd41acb8f4b1f6d29bc
+      internalID: 1155385356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_9
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1814
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df760fcf5183f8c4da6326b18d7bffc5
+      internalID: -876511515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1766
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520ba29cb09521946819e35b20e48646
+      internalID: -2076463978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_11
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1766
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e62955fb83ffb94aa9e382fc2cb556e
+      internalID: -316239208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_12
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1738
+        width: 144
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c07f5d6993adb340a30befeb55f3ea4
+      internalID: -1586310174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_13
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1730
+        width: 145
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845086f3336793f4daf10b02515ab40b
+      internalID: 27935071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_14
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1691
+        width: 144
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34022e8536b66954d9de53b03c2e182d
+      internalID: 1893909078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_15
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1687
+        width: 144
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9378fb95359a4644ac60450220ffa3d
+      internalID: -1563286513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_16
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1783
+        width: 145
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb2c1cb6dca4e94c84004cf85df0840
+      internalID: -393964060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_17
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1721
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aab6f485dc837e4d8bee7e4ed48e408
+      internalID: -1448743032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_18
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1703
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f93ae8a224092b4a8f2740989528469
+      internalID: -1547598331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_19
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1694
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8065f1a9d55329a4ba6fec63cf7c3673
+      internalID: -1119657426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1631
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f0ccc5e2f098e4ca6a14eb31d52592
+      internalID: -1177010991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_21
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1631
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef430705b2c55346af2fc703b445e1e
+      internalID: -799874082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_22
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1603
+        width: 143
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40277500fa987a41a695e7d4633ac1d
+      internalID: -117688050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_23
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1599
+        width: 145
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20da230eed48ca94fb00f263e052a38c
+      internalID: -504399295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_24
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1562
+        width: 144
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cda77cd02e2d894b90c80bf13c001ce
+      internalID: -526560847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_25
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1559
+        width: 144
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a801703951e27b44a9922c3ba12ae8b
+      internalID: 2054027756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_26
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1659
+        width: 145
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4402460acb2aa4abcc3d11767aad63
+      internalID: -793797083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_27
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1601
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731b3dd9d5b01f746ac671438c259e40
+      internalID: 629653136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_28
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1583
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b445b19f9b7c8e4abe2033e0213f89f
+      internalID: -1349617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_29
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1574
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de596aead19ba34ea8d76546ca168b6
+      internalID: -174771727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1497
+        width: 145
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b547fd84e8fe54981c659feb576335
+      internalID: -257256077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_31
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1470
+        width: 144
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8aecfc1aaddedc47a11ddcbe709d31d
+      internalID: -832221328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_32
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1468
+        width: 145
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91edca0e1a665e14fafb0ae32b804aa5
+      internalID: -257862835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_33
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1433
+        width: 144
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83dd727a877f4b1449cd23eb2cc6e6cc
+      internalID: 1770102758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_34
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1431
+        width: 145
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9a49038b537d04d9757b12c063943e
+      internalID: -632220401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_35
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1535
+        width: 145
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42afa16aaa563434f8bf9d3c0bdef753
+      internalID: -1854877467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_36
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1481
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e231b658653621468dd5337e7efae22
+      internalID: 2037207917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_37
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1463
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fcaaf6a56a51448a5ba3e72349f972
+      internalID: -1853708007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_38
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1454
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea66597c4b001fe44a99dfe3392de142
+      internalID: -1732475307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1371
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f6b0ac221252140968c5313b68fe21
+      internalID: 615439494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_40
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1335
+        width: 143
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076a98945ec62454f85d583b631d858a
+      internalID: 1932517872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_41
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1331
+        width: 140
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d63339dd6e46846be64602f688b05c
+      internalID: -558453047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_42
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1303
+        width: 144
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470905a9a89f41441990a97d10603583
+      internalID: 1817107930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_43
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1302
+        width: 145
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67203eb22e70ab848a2e0bb7554dc503
+      internalID: 151177121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_44
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1411
+        width: 145
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d0d521f978051458ba033f937516ea
+      internalID: 817465006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_45
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1362
+        width: 145
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27ac3837bf537d418ee6644310a8ce4
+      internalID: 506313381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_46
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1343
+        width: 143
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572850c144b66ca48a172268a687e046
+      internalID: -828334033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_47
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1334
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e34623586f7c04396a81bdfffa9ee4
+      internalID: -754959243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_48
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1331
+        width: 132
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c260bbd2403f514194c5301c36c4956
+      internalID: 1136320341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1245
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdf13a4e3500164fbc693dc58453a51
+      internalID: 1805406796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_50
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1198
+        width: 140
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37bb74d2ebfc1443aef0bf63d106bb7
+      internalID: -417119612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_51
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1198
+        width: 143
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e865fa33787ebc4ea0d3fe2ed74ba42
+      internalID: 456270453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_52
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1173
+        width: 144
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df222eb88a4d7542b610cf96cbd9f78
+      internalID: 943969616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_53
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1174
+        width: 145
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a48f4d974d633d49985ea44fcb3b9d5
+      internalID: 1757727070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_54
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1285
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1d4a0982078f2448c735100389f225
+      internalID: -1181658997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_55
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1242
+        width: 145
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82127afd2942c7e41abedd890e7366b0
+      internalID: 358724535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_56
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1223
+        width: 143
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb19d6f9a5c1a8469c3053977723e06
+      internalID: -681680514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_57
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1214
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ace94095b27c8d4ab2677e7fe36e581
+      internalID: -510123915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_58
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1211
+        width: 140
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b863a01e4dabd4bab9eb28dd82c99c
+      internalID: 1000731930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1119
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f11fed44176bd44992eab00b387a28
+      internalID: -904251071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_60
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1065
+        width: 145
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce36855a0c2cf249ba990cd0e3a7ff7
+      internalID: -172691237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_61
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1043
+        width: 144
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df99ff326ff73cb4191c514124574fa6
+      internalID: -971630072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_62
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1043
+        width: 144
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1054b306d365e246940c0502d1b6d87
+      internalID: 106626332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_63
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1159
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc02c8e24f6dbc24fa42969940c2cfc7
+      internalID: 760460378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_64
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1121
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3294f6a3ae511f24bbd1d524f4248678
+      internalID: 1642977285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_65
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1103
+        width: 143
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a9264769d607043b1c52345d5f18fd
+      internalID: 979450742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_66
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1094
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7967d773e86971429cb945db9f6b631
+      internalID: 2142459073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_67
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1091
+        width: 140
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357ca5b4ae640464b80af388811ddf79
+      internalID: -1264961518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 993
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15065b274b453c14b8e5cf334356c08b
+      internalID: 758642098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_69
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 932
+        width: 145
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dd97096f609dd43abc03ca4a064d3d
+      internalID: -913330841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_70
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 914
+        width: 145
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb712f041ac3c76468dc3c83297c82f6
+      internalID: 44251346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_71
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1033
+        width: 143
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b53c14aa5393334fb60ac23138288fe
+      internalID: 640409544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_72
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1001
+        width: 143
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9406234b7c893c74aa8f304d49091763
+      internalID: 1611239412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_73
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 983
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a030a3864d28a84581b6b88958ee8a8
+      internalID: -139137093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_74
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 974
+        width: 143
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18375cedc61466743976f2fa2772e27e
+      internalID: -1166397548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_75
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 971
+        width: 140
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147d625288c3e7442a6fef4e0f862c31
+      internalID: 1292781623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 867
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002c810f98bcd7449947eb1870ae23b2
+      internalID: 1140884731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_77
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 799
+        width: 146
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1986a5c571034e4aa791804e53cb988
+      internalID: -1294015619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_78
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 783
+        width: 145
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dff8dcf329ca9e43acc712a0386ad5d
+      internalID: 1555095432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_79
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 907
+        width: 143
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7d81e229b8e4f45963b0f8c89dc86e
+      internalID: -1358334048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_80
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 884
+        width: 143
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137687b4393762b4f8db2e334e996448
+      internalID: 1518406945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_81
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 881
+        width: 143
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe6ad4adb3c85843931ff90232bc742
+      internalID: -10574671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_82
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 863
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2637eb97edd79d745a6ab208ca376748
+      internalID: 965993617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_83
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 854
+        width: 143
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b56ee4c03d09e4487c678c9d69485a
+      internalID: 97956982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_84
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 851
+        width: 132
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbc307b48243f846b9f1d66d8407483
+      internalID: -1889967087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_85
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 851
+        width: 140
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d822a2675e5a8428cf55c8d297614d
+      internalID: -491109614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_86
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 842
+        width: 132
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7aa0ce2c0504244dab9958d5aa444ad
+      internalID: 2055194473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 741
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d37205c72319da44a2045c193cbf569
+      internalID: -630282531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_88
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 666
+        width: 146
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e9c820fb4f43344b630b6bc197c8bf
+      internalID: -1592951745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_89
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 654
+        width: 145
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c77704641613945a4f6f36f4263d1c
+      internalID: -1941923945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_90
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 778
+        width: 142
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e51507fa207d774680c2e3adce984c9
+      internalID: 597727826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_91
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 761
+        width: 143
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9051ae1fdb5433e48a46d70b47af9f00
+      internalID: 320444532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_92
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 761
+        width: 145
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b196787ef3ce54ead2697e48f62be5
+      internalID: -1775065968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_93
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 743
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109a0403686cec246bc088242062393d
+      internalID: -1076608537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_94
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 734
+        width: 143
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d24316abd8ad44cae791f14b68393e
+      internalID: -466346999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_95
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 731
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46209d68686b45c4f96bc4c49d3b57dd
+      internalID: 71933224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_96
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 722
+        width: 140
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54739fc9cb5efa4585476b0c9e5cc39
+      internalID: 1090413970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_97
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 722
+        width: 132
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a9329b495f2894cb2b200a88bd2bff
+      internalID: -789960781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_98
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 593
+        width: 144
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5635f59d012d5f44fbbbd86b1509bf38
+      internalID: 390402187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_99
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 533
+        width: 145
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cdb83a90627fc4096cb1cab9e905b2
+      internalID: 1523061357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_100
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 523
+        width: 145
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f58bf97389a3e24190a931516b43c08
+      internalID: 67801269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_101
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 649
+        width: 142
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cefd74bf1296f4085e8ef110a5439d
+      internalID: -54764524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_102
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 638
+        width: 143
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b4edfc0d67d234a97f60da2d0c5fbf
+      internalID: 1551248061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_103
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 638
+        width: 142
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6152f11dae785f847b8f27ec846653f3
+      internalID: 1840890751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_104
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 623
+        width: 145
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac2920eb123ddb43b9f7fa184cfddea
+      internalID: 1212124007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_105
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 614
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc31464c534a4d49aab8222ca74c924
+      internalID: 1690074029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_106
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 611
+        width: 143
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb40b6c83f0923348b66a45a42308463
+      internalID: 1977035760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_107
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 602
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc2363ad23601a4e9291f0b1415159a
+      internalID: -836495753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_108
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 601
+        width: 132
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b26b568f8b1aa48bd6dd74835d13bd
+      internalID: 1611803758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_109
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 445
+        width: 144
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2a27b2381dc4d4493dd48470c6c48e
+      internalID: 1690054999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_110
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 400
+        width: 146
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a728ea535183f443bd988a4b5962e55
+      internalID: -1463878210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_111
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 520
+        width: 142
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76b31e4d68e5d0418572697382d3dd4
+      internalID: -381429288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_112
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 515
+        width: 146
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a444ec873b939e34a93dcaef5e7f52b8
+      internalID: -1719179234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_113
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 503
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70def8507dcf0a940be384fba09fe087
+      internalID: -1797674442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_114
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 494
+        width: 145
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0ea70545d4de04abd8370e15e88f41
+      internalID: -2075797015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_115
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 491
+        width: 143
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805ad8a4a651cae4fbb9dfccd4ee6048
+      internalID: 1060311468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_116
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 482
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7e4c5c6011f7f4cb0db4d86e964906
+      internalID: -985434295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_117
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 481
+        width: 142
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c161b20fb604c0d4883197a3c52b2caf
+      internalID: -1167864085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_118
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 297
+        width: 144
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886acd6d88bf4da4bb4230cb1d062e5e
+      internalID: 1231370446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_119
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 267
+        width: 145
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb96ecb1f78d854c8c513a76e5f06ff
+      internalID: -1395038998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_120
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 394
+        width: 145
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52410d0aea8b4c44b918e077645062a
+      internalID: -649286949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_121
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 391
+        width: 142
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad327232c2980f4e9827b5983b7398a
+      internalID: -1105773879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_122
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 391
+        width: 143
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a05486774a84848908059bb8456008
+      internalID: 893711485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_123
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 380
+        width: 145
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c440bc17a1ba24843a51ffd4e96997d8
+      internalID: 1583354583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_124
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 374
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ed3f148e04ac84a8e9372a8480f517
+      internalID: 1607645595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_125
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 371
+        width: 145
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023c3d4e6e815974db5ae87e1d09ce9b
+      internalID: -412805946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_126
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 362
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696f298ff10ddd94e804a9c7969dfa34
+      internalID: -1159430066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_127
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 361
+        width: 143
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f2847a7f6c9ee49a70b8bd0f696db9
+      internalID: 207879550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_128
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 149
+        width: 144
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e448defd9787837428a47b3cc35f212c
+      internalID: -1200707855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_129
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 134
+        width: 145
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5777d3bb0944a64481487948c8eee57
+      internalID: 363657220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_130
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 263
+        width: 145
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30a33825dd341a4abf88f3ad9ed0da1
+      internalID: -290845773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_131
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 262
+        width: 142
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fcd852a7e6b0f40bd94458aa19c980
+      internalID: 119459361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_132
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 259
+        width: 145
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1fd9298a7d11348b5d9217cd194b5a
+      internalID: -1084732557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_133
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 251
+        width: 143
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8ddd7aecfa7394b89111559b07d3c7
+      internalID: 1546912957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_134
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 251
+        width: 145
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb72f3640dee53c49832e43286a023d2
+      internalID: -1861962658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_135
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 242
+        width: 145
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4bc83350718954090ff853ea54ba01
+      internalID: 1901773973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_136
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 241
+        width: 145
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a10bb755442aa54195e494287ccd947
+      internalID: -1330001400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_137
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 241
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83aba777db4024e42bff96e7bc76bd94
+      internalID: 1651548092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_138
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 144
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c9518e5ed7459409f29eaef15c7d05
+      internalID: 366605525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_139
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 132
+        width: 145
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd15f279ab61bb4c81b456881687cc8
+      internalID: 2018369818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_140
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 129
+        width: 142
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145a9324be73d8148a069eea406c6c0e
+      internalID: -1423096182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_141
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 129
+        width: 142
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2166d13a0e4269b4691ce53bbdd9cf6d
+      internalID: -1503381025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_142
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 128
+        width: 146
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e631b10b24de56a43a83a70030a43736
+      internalID: -960052808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_143
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 122
+        width: 138
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7626ff03f17a649add6146ebc25bff
+      internalID: 946419767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_144
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 122
+        width: 145
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0304270b12ad5f43b54dfe416bc04f7
+      internalID: 1773173934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_145
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 121
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19cc0f122fdb164ea206f26c0dd97d4
+      internalID: -369770380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_146
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 121
+        width: 145
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8180e994b7948414d824e1d9d54f25b9
+      internalID: -1744724673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_147
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 121
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e518bd4a0efbe84c8cfcdb05618c023
+      internalID: -1907043781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_148
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1
+        width: 146
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb72389eb3b2d141bb1d339efa9edf4
+      internalID: 1819360187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_149
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1
+        width: 145
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f350caafeaf5f7d4d9ef22c14ac7a606
+      internalID: -1461279056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_150
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 0
+        width: 144
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1453c455f7793604f9b192c1d360785a
+      internalID: -96461268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geno Saurer
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 0
+        width: 143
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d8ef8d672cd8d429327c270c6d286d
+      internalID: -1727341759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_152
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 0
+        width: 145
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4c6e6840aa81347ba92604cca1974f
+      internalID: 680577695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_153
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 0
+        width: 144
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf0d54e42350f84fbb2bf3f7e0a0c66
+      internalID: 526940327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_154
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1
+        width: 145
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e97a5c0646cba4595a6307c1a17eb2
+      internalID: -1504777666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_155
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63591cb93463f3341ad02a643e96c677
+      internalID: 1319033467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_156
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1
+        width: 145
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1400b19127c3ca45be48d6bab4ec87b
+      internalID: -1412803136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZOIDS_CharIcon_00_157
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 1
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35d8dc1a89de3449900795ada008f33
+      internalID: -974610079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Geno Saurer: -1727341759
+      ZOIDS_CharIcon_00_0: 1881851100
+      ZOIDS_CharIcon_00_1: -1878154725
+      ZOIDS_CharIcon_00_10: -2076463978
+      ZOIDS_CharIcon_00_100: 67801269
+      ZOIDS_CharIcon_00_101: -54764524
+      ZOIDS_CharIcon_00_102: 1551248061
+      ZOIDS_CharIcon_00_103: 1840890751
+      ZOIDS_CharIcon_00_104: 1212124007
+      ZOIDS_CharIcon_00_105: 1690074029
+      ZOIDS_CharIcon_00_106: 1977035760
+      ZOIDS_CharIcon_00_107: -836495753
+      ZOIDS_CharIcon_00_108: 1611803758
+      ZOIDS_CharIcon_00_109: 1690054999
+      ZOIDS_CharIcon_00_11: -316239208
+      ZOIDS_CharIcon_00_110: -1463878210
+      ZOIDS_CharIcon_00_111: -381429288
+      ZOIDS_CharIcon_00_112: -1719179234
+      ZOIDS_CharIcon_00_113: -1797674442
+      ZOIDS_CharIcon_00_114: -2075797015
+      ZOIDS_CharIcon_00_115: 1060311468
+      ZOIDS_CharIcon_00_116: -985434295
+      ZOIDS_CharIcon_00_117: -1167864085
+      ZOIDS_CharIcon_00_118: 1231370446
+      ZOIDS_CharIcon_00_119: -1395038998
+      ZOIDS_CharIcon_00_12: -1586310174
+      ZOIDS_CharIcon_00_120: -649286949
+      ZOIDS_CharIcon_00_121: -1105773879
+      ZOIDS_CharIcon_00_122: 893711485
+      ZOIDS_CharIcon_00_123: 1583354583
+      ZOIDS_CharIcon_00_124: 1607645595
+      ZOIDS_CharIcon_00_125: -412805946
+      ZOIDS_CharIcon_00_126: -1159430066
+      ZOIDS_CharIcon_00_127: 207879550
+      ZOIDS_CharIcon_00_128: -1200707855
+      ZOIDS_CharIcon_00_129: 363657220
+      ZOIDS_CharIcon_00_13: 27935071
+      ZOIDS_CharIcon_00_130: -290845773
+      ZOIDS_CharIcon_00_131: 119459361
+      ZOIDS_CharIcon_00_132: -1084732557
+      ZOIDS_CharIcon_00_133: 1546912957
+      ZOIDS_CharIcon_00_134: -1861962658
+      ZOIDS_CharIcon_00_135: 1901773973
+      ZOIDS_CharIcon_00_136: -1330001400
+      ZOIDS_CharIcon_00_137: 1651548092
+      ZOIDS_CharIcon_00_138: 366605525
+      ZOIDS_CharIcon_00_139: 2018369818
+      ZOIDS_CharIcon_00_14: 1893909078
+      ZOIDS_CharIcon_00_140: -1423096182
+      ZOIDS_CharIcon_00_141: -1503381025
+      ZOIDS_CharIcon_00_142: -960052808
+      ZOIDS_CharIcon_00_143: 946419767
+      ZOIDS_CharIcon_00_144: 1773173934
+      ZOIDS_CharIcon_00_145: -369770380
+      ZOIDS_CharIcon_00_146: -1744724673
+      ZOIDS_CharIcon_00_147: -1907043781
+      ZOIDS_CharIcon_00_148: 1819360187
+      ZOIDS_CharIcon_00_149: -1461279056
+      ZOIDS_CharIcon_00_15: -1563286513
+      ZOIDS_CharIcon_00_150: -96461268
+      ZOIDS_CharIcon_00_152: 680577695
+      ZOIDS_CharIcon_00_153: 526940327
+      ZOIDS_CharIcon_00_154: -1504777666
+      ZOIDS_CharIcon_00_155: 1319033467
+      ZOIDS_CharIcon_00_156: -1412803136
+      ZOIDS_CharIcon_00_157: -974610079
+      ZOIDS_CharIcon_00_16: -393964060
+      ZOIDS_CharIcon_00_17: -1448743032
+      ZOIDS_CharIcon_00_18: -1547598331
+      ZOIDS_CharIcon_00_19: -1119657426
+      ZOIDS_CharIcon_00_2: -1746514952
+      ZOIDS_CharIcon_00_20: -1177010991
+      ZOIDS_CharIcon_00_21: -799874082
+      ZOIDS_CharIcon_00_22: -117688050
+      ZOIDS_CharIcon_00_23: -504399295
+      ZOIDS_CharIcon_00_24: -526560847
+      ZOIDS_CharIcon_00_25: 2054027756
+      ZOIDS_CharIcon_00_26: -793797083
+      ZOIDS_CharIcon_00_27: 629653136
+      ZOIDS_CharIcon_00_28: -1349617
+      ZOIDS_CharIcon_00_29: -174771727
+      ZOIDS_CharIcon_00_3: 1249524459
+      ZOIDS_CharIcon_00_30: -257256077
+      ZOIDS_CharIcon_00_31: -832221328
+      ZOIDS_CharIcon_00_32: -257862835
+      ZOIDS_CharIcon_00_33: 1770102758
+      ZOIDS_CharIcon_00_34: -632220401
+      ZOIDS_CharIcon_00_35: -1854877467
+      ZOIDS_CharIcon_00_36: 2037207917
+      ZOIDS_CharIcon_00_37: -1853708007
+      ZOIDS_CharIcon_00_38: -1732475307
+      ZOIDS_CharIcon_00_39: 615439494
+      ZOIDS_CharIcon_00_4: 1616591914
+      ZOIDS_CharIcon_00_40: 1932517872
+      ZOIDS_CharIcon_00_41: -558453047
+      ZOIDS_CharIcon_00_42: 1817107930
+      ZOIDS_CharIcon_00_43: 151177121
+      ZOIDS_CharIcon_00_44: 817465006
+      ZOIDS_CharIcon_00_45: 506313381
+      ZOIDS_CharIcon_00_46: -828334033
+      ZOIDS_CharIcon_00_47: -754959243
+      ZOIDS_CharIcon_00_48: 1136320341
+      ZOIDS_CharIcon_00_49: 1805406796
+      ZOIDS_CharIcon_00_5: 1994817108
+      ZOIDS_CharIcon_00_50: -417119612
+      ZOIDS_CharIcon_00_51: 456270453
+      ZOIDS_CharIcon_00_52: 943969616
+      ZOIDS_CharIcon_00_53: 1757727070
+      ZOIDS_CharIcon_00_54: -1181658997
+      ZOIDS_CharIcon_00_55: 358724535
+      ZOIDS_CharIcon_00_56: -681680514
+      ZOIDS_CharIcon_00_57: -510123915
+      ZOIDS_CharIcon_00_58: 1000731930
+      ZOIDS_CharIcon_00_59: -904251071
+      ZOIDS_CharIcon_00_6: -1170480829
+      ZOIDS_CharIcon_00_60: -172691237
+      ZOIDS_CharIcon_00_61: -971630072
+      ZOIDS_CharIcon_00_62: 106626332
+      ZOIDS_CharIcon_00_63: 760460378
+      ZOIDS_CharIcon_00_64: 1642977285
+      ZOIDS_CharIcon_00_65: 979450742
+      ZOIDS_CharIcon_00_66: 2142459073
+      ZOIDS_CharIcon_00_67: -1264961518
+      ZOIDS_CharIcon_00_68: 758642098
+      ZOIDS_CharIcon_00_69: -913330841
+      ZOIDS_CharIcon_00_7: -1681046132
+      ZOIDS_CharIcon_00_70: 44251346
+      ZOIDS_CharIcon_00_71: 640409544
+      ZOIDS_CharIcon_00_72: 1611239412
+      ZOIDS_CharIcon_00_73: -139137093
+      ZOIDS_CharIcon_00_74: -1166397548
+      ZOIDS_CharIcon_00_75: 1292781623
+      ZOIDS_CharIcon_00_76: 1140884731
+      ZOIDS_CharIcon_00_77: -1294015619
+      ZOIDS_CharIcon_00_78: 1555095432
+      ZOIDS_CharIcon_00_79: -1358334048
+      ZOIDS_CharIcon_00_8: 1155385356
+      ZOIDS_CharIcon_00_80: 1518406945
+      ZOIDS_CharIcon_00_81: -10574671
+      ZOIDS_CharIcon_00_82: 965993617
+      ZOIDS_CharIcon_00_83: 97956982
+      ZOIDS_CharIcon_00_84: -1889967087
+      ZOIDS_CharIcon_00_85: -491109614
+      ZOIDS_CharIcon_00_86: 2055194473
+      ZOIDS_CharIcon_00_87: -630282531
+      ZOIDS_CharIcon_00_88: -1592951745
+      ZOIDS_CharIcon_00_89: -1941923945
+      ZOIDS_CharIcon_00_9: -876511515
+      ZOIDS_CharIcon_00_90: 597727826
+      ZOIDS_CharIcon_00_91: 320444532
+      ZOIDS_CharIcon_00_92: -1775065968
+      ZOIDS_CharIcon_00_93: -1076608537
+      ZOIDS_CharIcon_00_94: -466346999
+      ZOIDS_CharIcon_00_95: 71933224
+      ZOIDS_CharIcon_00_96: 1090413970
+      ZOIDS_CharIcon_00_97: -789960781
+      ZOIDS_CharIcon_00_98: 390402187
+      ZOIDS_CharIcon_00_99: 1523061357
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

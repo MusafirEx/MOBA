@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0d324fd35107c94e86dd054f14be5b3, type: 3}
+  m_Name: Cannon
+  m_EditorClassIdentifier: 
+  weaponName: Cannon
+  weaponIcon: {fileID: -1940799685, guid: af17bea9146640b29b357b7fb34809dd, type: 3}
+  weaponModel: {fileID: 540901511994989998, guid: 836cde97db2f6424f8ba8a432b7b0e09, type: 3}
+  projectile: {fileID: 8088719733585624236, guid: a909a4b67dfab9045b3cd599886a3238, type: 3}
+  delayBetweenShots: 1
+  delayBeforeShooting: 1
+  launchOffset: 0
+  destructibleDamage: 100
+  animID: 3
+  requiredMount: 0
+  sizeClass: 2
+  compatibleCharacters: []
+  aimMode: 2
+  yawSpeed: 100
+  pitchSpeed: 100
+  minimumYaw: -180
+  maximumYaw: 180
+  minimumPitch: -45
+  maximumPitch: 20
+  noLockBehaviour: 2
+  homingTurnSpeed: 120
+  homingTargetOffsetY: 1
+  isShotgun: 0
+  shotgunPelletCount: 5
+  shotSpreadAngleHorizontal: 10
+  shotSpreadAngleVertical: 5
+  weaponStats:
+    stats:
+    - statType: 3
+      value: 1
+    - statType: 2
+      value: 8
+    - statType: 4
+      value: 100
+    - statType: 5
+      value: -1
+  reloadOneAmmoAtATime: 1
+  reloadDuration: 3
+  reloadClipSize: 1
+  ammoAmountShotUse: 1
+  shootFx: {fileID: 0}
+  reloadFx: {fileID: 0}
+  emptyFx: {fileID: 0}
